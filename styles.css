@@ -1,0 +1,71 @@
+body {
+	margin:0;
+}
+.contenedor-principal{
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.titulo{
+	display:flex;
+}
+.titulo h4{
+	width:100%;
+}
+.footer{
+	text-align: center;
+	margin-top: 1rem;
+}
+/*FOTO 1*/
+.publicacion1{
+	width:400px;
+	height:400px;
+	
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+.foto-perro{
+	width: 400px;
+	height: 300px;
+}
+
+/*FOTO 2*/
+.publicacion2{
+	width:400px;
+	height:500px;
+	
+	
+	margin-top: 3rem;
+	margin-bottom: 5rem;
+}
+.foto-perro2 {
+	width:400px;
+	height: 500px;
+}
+/*FOTO 3*/
+.publicacion3{
+	width:400px;
+	height:400px;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.foto-ordenador{
+	width: 400px;
+	height: 300px;
+}
+/*FOTO 4*/
+.publicacion4{
+	width:400px;
+	height:400px;
+	
+}
+.foto-comida{
+	width: 400px;
+	height: 300px;
+}
